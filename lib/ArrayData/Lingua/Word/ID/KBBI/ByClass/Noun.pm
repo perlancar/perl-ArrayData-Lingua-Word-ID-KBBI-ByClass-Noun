@@ -28,6 +28,220 @@ L<WordList::ID::KBBI::ByClass::Noun> contains the same data.
 __DATA__
 (ke)robohan
 (ke)tikan
+Agustus
+Ajisaka
+Akuarius
+Alkitab
+Alkus
+Almalik
+Almasih
+Alquran
+Andalas
+April
+Aries
+Asyera
+Asytoret
+Asyura
+Avesta
+Baal
+Babet
+Badui
+Baitulharam
+Baitullah
+Baitulmakdis
+Baitulmukadas
+Baruna
+Batak
+Belanda
+Bibel
+Brahma
+Buddha
+Buddhis
+Buddhisme
+Cakrabirawa
+Celsius
+Cina
+Danuh
+Desember
+Deuterokanonika
+Digul
+Eurasia
+Fahrenheit
+Februari
+Galungan
+Gemini
+Habsyi
+Hambali
+Hanafi
+Hinayana
+Hindi
+Hindu
+Iduladha
+Idulfitri
+Ilahi
+Indonesia
+Inggris
+Injil
+Insulinde
+Islam
+Jabar
+Jabariah
+Jainisme
+Januari
+Jauza
+Jibrail
+Jibril
+Jimakir
+Jimawal
+Johar
+Juli
+Jumadilakhir
+Jumadilawal
+Jumat
+Juni
+Kabil
+Kadariah
+Kadiriah
+Kakbah
+Kamajaya
+Kamis
+Kanser
+Kapela
+Kaprikornus
+Karkata
+Katolik
+Kejora
+Keling
+Kliwon
+Kristen
+Kristus
+Kubti
+Kumba
+Kuningan
+Laksmi
+Lasparaginase
+Lawalata
+Lebaran
+Legi
+Libra
+Mahayana
+Makara
+Maliki
+Malikuljabar
+Malikulmuluk
+Mandar
+Maret
+Marikh
+Masehi
+Masjidilaksa
+Masjidilharam
+Maya
+Mayang
+Mediterania
+Medusa
+Megalitikum
+Melanesia
+Melayu
+Menserendahi
+Merkurius
+Mesa
+Mina
+Minggu
+Muharam
+Nasrani
+Nazi
+Neger
+Negro
+Negus
+Neptunus
+November
+Nuzulul Quran
+Nyepi
+Oedipus-kompleks
+Oktober
+Olimpiade
+Orion
+Pancasila
+Pancasilais
+Pantekosta
+Paskah
+Pises
+Pluto
+Protestan
+Protestantisme
+Quran
+Rabiulakhir
+Rabiulawal
+Rabu
+Rajab
+Ramadan
+Rasulullah
+Reaumur
+Rohulkudus
+Ruwah
+Sabi
+Sabtu
+Safar
+Sagitarius
+Sailan
+Saka
+Sakai
+Sanskerta
+Sartan
+Saturnus
+Selasa
+Selatan
+Semang
+Senin
+September
+Serani
+Sinansari
+Sinterklas
+Sinyokolas
+Skorpio
+Srikandi
+Stambul
+Sudra
+Sura
+Syafii
+Syaka
+Syakban
+Syawal
+Syiwa
+Syiwaratri
+Tarawih
+Taurat
+Taurus
+Tijaniah
+Tubagus
+Tula
+Uranus
+Urdu
+Vatikan
+Venus
+Virgo
+Wage
+Waisak
+Wawu
+Weda
+Widiwasa
+Wisnu
+Wrisaba
+Yahudi
+Yahudiah
+Yahwe
+Yakjuj wa Makjuj
+Yunani
+Yupiter
+Zabaniah
+Zabur
+Zanggi
+Zend-Avesta
+Zion
+Zionis
+Zulhijah
+Zulkaidah
+Zulu
 abaian
 abaka
 abakus
@@ -251,7 +465,6 @@ agronomi
 agrostologi
 agrowisata
 agunan
-Agustus
 ahimsa
 ahli
 ahli negara
@@ -263,7 +476,6 @@ ajakan
 ajaran
 aji
 aji-aji
-Ajisaka
 ajojing
 ajre
 ajuan
@@ -359,7 +571,6 @@ akuan
 akuarel
 akuaris
 akuarium
-Akuarius
 akuifer
 akuisisi
 akulturasi
@@ -455,15 +666,12 @@ alkena
 alkil
 alkimia
 alkisah
-Alkitab
 alkohol
 alkoholisasi
 alkoholisme
 alkoholometer
 alkuna
-Alkus
 almaktub
-Almalik
 almalun
 almamater
 almanak
@@ -471,7 +679,6 @@ almandin
 almandit
 almarhum
 almarhumah
-Almasih
 alofon
 alograf
 alohtonus
@@ -488,7 +695,6 @@ alotropi
 alpaka
 alperes
 alpukah
-Alquran
 altar
 alteratif
 alternasi
@@ -675,7 +881,6 @@ ancar-ancar
 ancol
 andai
 andalan
-Andalas
 andalas
 andalusit
 andam
@@ -978,7 +1183,6 @@ apraksi
 apraksia
 apresiasi
 apresorium
-April
 apron
 apsara
 aptasi
@@ -1019,7 +1223,6 @@ argot
 argumen
 argumentasi
 ari
-Aries
 arifin
 aring
 aris
@@ -1176,9 +1379,6 @@ asungan
 asurador
 asuransi
 aswasada
-Asyera
-Asytoret
-Asyura
 ataksia
 atas nama
 atasan
@@ -1257,7 +1457,6 @@ autotoksin
 autotrof
 avalans
 aversi
-Avesta
 avgas
 aviari
 aviasi
@@ -1295,7 +1494,6 @@ azimat
 azimut
 azoikum
 azurit
-Baal
 baba
 babad
 babak
@@ -1303,7 +1501,6 @@ babal
 babat
 babatan
 babesiasis
-Babet
 babi
 babon
 babu
@@ -1329,7 +1526,6 @@ badi
 badik
 badminton
 badong
-Badui
 badung
 badur
 badut
@@ -1365,11 +1561,7 @@ baiat
 baiduri
 bais
 bait
-Baitulharam
-Baitullah
-Baitulmakdis
 baitulmal
-Baitulmukadas
 baja
 bajaj
 bajak
@@ -1533,7 +1725,6 @@ baning
 banir
 banjar
 banjaran
-banjaran
 bankir
 bantah
 bantah-bantah
@@ -1613,7 +1804,6 @@ barter
 baru
 baruh
 baruje
-Baruna
 barunawati
 barung-barung
 barut
@@ -1644,7 +1834,6 @@ basungan
 bata
 batagor
 batai
-Batak
 batak
 batako
 batalion
@@ -1790,7 +1979,6 @@ belam
 belambang
 belan
 belanak
-Belanda
 belandar
 belandong
 belandongan
@@ -2135,7 +2323,6 @@ biat
 biawak
 biawas
 biaya
-Bibel
 bibi
 bibinda
 bibir
@@ -2439,7 +2626,6 @@ boyo-boyo
 boyongan
 bozah
 bradikardi
-Brahma
 brahmana
 brahmi
 brahmin
@@ -2518,9 +2704,6 @@ bucu
 budak
 budaya
 budayawan
-Buddha
-Buddhis
-Buddhisme
 budi
 budi daya
 budiman
@@ -2715,7 +2898,6 @@ caki
 cakiak
 cakil
 cakra
-Cakrabirawa
 cakrabuana
 cakram
 cakrawala
@@ -2870,7 +3052,6 @@ celepik
 celepuk
 celetuk
 celoteh
-Celsius
 celung
 celung-celung
 celup
@@ -3019,7 +3200,6 @@ cilawagi
 cili
 cilukba
 cimplong
-Cina
 cincau
 cincin
 cincong
@@ -3239,7 +3419,6 @@ dangkalan
 dangkung
 dansa
 dansa-dansi
-Danuh
 danur
 danyang
 dapra
@@ -3631,7 +3810,6 @@ desas-desus
 desau
 desegregasi
 deselerasi
-Desember
 desensitisasi
 desentralisasi
 deserebrasi
@@ -3709,7 +3887,6 @@ detrusor
 detup
 detus
 deuterium
-Deuterokanonika
 deuteron
 deutranomalopia
 devaluasi
@@ -3791,7 +3968,6 @@ digitalisasi
 diglosia
 digraf
 digresi
-Digul
 diklorida
 dikotil
 dikotomi
@@ -4721,7 +4897,6 @@ eukaliptus
 eukarion
 eukariota
 eulogi
-Eurasia
 europium
 euseksual
 eutanasia
@@ -4751,7 +4926,6 @@ fagosit
 fagositosis
 fagot
 fahombe
-Fahrenheit
 fail
 fajar
 fakir
@@ -4809,7 +4983,6 @@ fauna
 favorit
 favoritisme
 febrin
-Februari
 federalis
 federalisme
 federasi
@@ -5158,7 +5331,6 @@ galih
 galing-galing
 galium
 galon
-Galungan
 galur
 galvanisasi
 galvanometer
@@ -5440,7 +5612,6 @@ gembreng
 gembung
 gembus
 gemi
-Gemini
 gemintang
 geminte
 gempa
@@ -5543,7 +5714,6 @@ geraham
 gerai
 gerak
 gerakan
-geraman
 geraman
 geramang
 gerang
@@ -5938,7 +6108,6 @@ habib
 habitat
 habituasi
 hablur
-Habsyi
 habuk
 habung
 hadanah
@@ -6006,7 +6175,6 @@ halwa
 hama
 hamatum
 hamba
-Hambali
 hambatan
 hamburan
 hamburger
@@ -6017,7 +6185,6 @@ hamud
 hamulus
 hamzah
 hanacaraka
-Hanafi
 hancing
 handai
 handasah
@@ -6283,9 +6450,6 @@ himenium
 himne
 himpunan
 hinaan
-Hinayana
-Hindi
-Hindu
 hindu
 hinduisme
 hingga
@@ -6501,8 +6665,6 @@ idiosinkrasi
 idiot
 idola
 idu, periduan
-Iduladha
-Idulfitri
 ifrit
 iftar
 igauan
@@ -6546,7 +6708,6 @@ iktiologis
 iktisab
 ikutan
 ilafi
-Ilahi
 ilahiat
 ilanun
 ilat-ilatan
@@ -6653,7 +6814,6 @@ individuasi
 indoktrinasi
 indolensi
 indologi
-Indonesia
 indonesianisasi
 indra
 indraloka
@@ -6698,7 +6858,6 @@ inframerah
 infrastruktur
 infus
 ingatan
-Inggris
 inggu
 ingin tahu
 ingkir
@@ -6714,7 +6873,6 @@ injak, injak-injak
 injakan
 injap
 injeksi
-Injil
 inkarnasi
 inkarserasi
 inkarsunah
@@ -6773,7 +6931,6 @@ instrumentasi
 insubordinasi
 insulator
 insulin
-Insulinde
 intan
 integrasi
 integrasionis
@@ -6891,7 +7048,6 @@ isalohipse
 isapan
 isian
 iskemia
-Islam
 islamisasi
 islamisme
 islamologi
@@ -6972,9 +7128,7 @@ itlak
 itrium
 jaat
 jabang
-Jabar
 jabaran
-Jabariah
 jabatan
 jables
 jabung
@@ -7000,7 +7154,6 @@ jahan
 jahe
 jahiliah
 jahitan
-Jainisme
 jaipong
 jaipongan
 jaja-jajaan
@@ -7090,7 +7243,6 @@ janji
 jantan
 jantung
 jantur
-Januari
 janur
 jap
 japin
@@ -7128,7 +7280,6 @@ jatilan
 jatuhan
 jauhar
 jauhari
-Jauza
 jawab
 jawaban
 jawang
@@ -7269,8 +7420,6 @@ jetset
 jeweran
 jiawang
 jibilah
-Jibrail
-Jibril
 jibti
 jibun
 jidar
@@ -7283,9 +7432,7 @@ jilatan
 jilbab
 jilid
 jimak
-Jimakir
 jimat
-Jimawal
 jimpitan
 jin
 jinayah
@@ -7314,7 +7461,6 @@ jodoh
 jogar
 joget
 joglo
-Johar
 johar
 johari
 jojing
@@ -7362,14 +7508,10 @@ jukstaposisi
 jukut
 julab
 julai
-Juli
 julo, julo-julo
 julukan
 julung
 julung, julung asar
-Jumadilakhir
-Jumadilawal
-Jumat
 jumatan
 jumbai
 jumbai-jumbai
@@ -7384,7 +7526,6 @@ jumputan
 jumrah
 jungkol
 jungur
-Juni
 junjungan
 junta
 junub
@@ -7420,7 +7561,6 @@ kabar
 kabaret
 kabau
 kabel
-Kabil
 kabilah
 kabin
 kabinet
@@ -7460,7 +7600,6 @@ kada
 kadal
 kadam
 kadar
-Kadariah
 kadas
 kadaster
 kadaver
@@ -7471,7 +7610,6 @@ kaderisasi
 kades
 kadet
 kadi
-Kadiriah
 kadmium
 kado
 kadofor
@@ -7513,7 +7651,6 @@ kakao
 kakap
 kakas
 kakawin
-Kakbah
 kakerlak
 kaki
 kakodil
@@ -7596,7 +7733,6 @@ kalui
 kalumet
 kalung
 kalus
-Kamajaya
 kamalir
 kamantuhu
 kamar
@@ -7620,7 +7756,6 @@ kamerawan
 kamfana
 kamfor
 kamhar
-Kamis
 kamisa
 kamisol
 kamomil
@@ -7696,7 +7831,6 @@ kanonir
 kanopi
 kanselari
 kanselir
-Kanser
 kanstof
 kanta
 kantan
@@ -7734,7 +7868,6 @@ kapasitas
 kapasitor
 kapat
 kapel
-Kapela
 kaper
 kapi
 kapilaritas
@@ -7753,7 +7886,6 @@ kapon
 kaporit
 kappa
 kapri
-Kaprikornus
 kapsalon
 kapsel
 kapstan
@@ -7830,7 +7962,6 @@ karinasi
 karisma
 karitas
 karkas
-Karkata
 karma
 karmina
 karminatif
@@ -7974,7 +8105,6 @@ katimumul
 kation
 katir
 katode
-Katolik
 katrol
 katuk
 katun
@@ -8530,7 +8660,6 @@ kejituan
 kejiwaan
 kejohanan
 kejombangan
-Kejora
 kejorokan
 keju
 kejuangan
@@ -8787,7 +8916,6 @@ kelimut
 kelincahan
 kelinci
 kelindan
-Keling
 keling
 kelingking
 kelinglungan
@@ -10160,7 +10288,6 @@ klistron
 klitelum
 klitik
 klitoris
-Kliwon
 kloaka
 klona
 kloning
@@ -10771,8 +10898,6 @@ kristalisasi
 kristalografi
 kristaloid
 kristalosa
-Kristen
-Kristus
 kriteria
 kritik
 kritikus
@@ -10857,7 +10982,6 @@ kubik
 kubin
 kubis
 kubisme
-Kubti
 kubu
 kubul
 kubung
@@ -10940,7 +11064,6 @@ kumaian
 kuman
 kumandang
 kumanga
-Kumba
 kumba
 kumbang
 kumbar
@@ -10972,7 +11095,6 @@ kungki
 kungkung
 kungkungan
 kuning
-Kuningan
 kuningan
 kunjungan
 kuntau
@@ -11130,7 +11252,6 @@ lakrimator
 laksa
 laksamana
 laksatif
-Laksmi
 laktase
 laktasi
 laktat
@@ -11301,7 +11422,6 @@ laser
 lasinia
 laskar
 laso
-Lasparaginase
 lat
 lata
 latar
@@ -11331,7 +11451,6 @@ lawai
 lawak
 lawak-lawak
 lawakan
-Lawalata
 lawamah
 lawan
 lawang
@@ -11359,7 +11478,6 @@ lebak
 lebam
 leban
 lebap
-Lebaran
 lebuk
 lebum
 lebun
@@ -11385,7 +11503,6 @@ legek
 legenda
 leger
 leges
-Legi
 legih
 legio
 legislasi
@@ -11593,7 +11710,6 @@ liberasi
 liberator
 libero
 libido
-Libra
 librasi
 libreto
 liburan
@@ -11983,7 +12099,6 @@ maharajalela
 maharesi
 mahasiswa
 mahasiswi
-Mahayana
 mahdi
 mahi-mahi
 mahia
@@ -12022,7 +12137,6 @@ makanan
 makao
 makaopo
 makar
-Makara
 makara
 makaroni
 makcik
@@ -12092,9 +12206,6 @@ maleo
 maleolus
 mali-mali
 maligai
-Maliki
-Malikuljabar
-Malikulmuluk
 malim
 maling
 malisol
@@ -12137,7 +12248,6 @@ manda
 mandah
 mandai
 mandala
-Mandar
 mandar
 mandarin
 mandat
@@ -12224,7 +12334,6 @@ marbling
 marbut
 marcapada
 mare
-Maret
 marga
 margalit
 margarin
@@ -12237,7 +12346,6 @@ marhaen
 marhaenis
 marhaenisme
 maria
-Marikh
 marikultur
 marimu
 marina
@@ -12282,14 +12390,11 @@ masase
 masayu
 masbuk
 masdar
-Masehi
 masektomi
 maser
 maserasi
 masinis
 masjid
-Masjidilaksa
-Masjidilharam
 maskapai
 maskara
 maskat
@@ -12360,9 +12465,7 @@ maut
 mawar
 mawas
 maweda
-Maya
 mayam
-Mayang
 mayang
 mayapada
 mayat
@@ -12394,15 +12497,12 @@ medikasi
 medikus
 medio
 meditasi
-Mediterania
 medium
 medula
-Medusa
 mega
 megafon
 megakredit
 megalit
-Megalitikum
 megalomania
 megalopolis
 megalosit
@@ -12434,7 +12534,6 @@ mekonium
 melabuai
 melambang
 melamin
-Melanesia
 melanin
 melanisme
 melankolia
@@ -12442,7 +12541,6 @@ melanoderma
 melase
 melasma
 melati
-Melayu
 melela
 melilin
 melilit
@@ -12512,7 +12610,6 @@ menjarum, menjarum merah
 menopause
 menoragia
 menostaksis
-Menserendahi
 mensiang
 menstruasi
 mensurasi
@@ -12583,7 +12680,6 @@ merkantilisme
 merkubang
 merkuri
 merkurium
-Merkurius
 merkuro
 merkurokrom
 merlilin
@@ -12601,7 +12697,6 @@ mertua
 meru
 merunggai
 mes
-Mesa
 mesan
 mesara
 mesin
@@ -12776,14 +12871,12 @@ mimis
 mimosa
 mimpi
 mimpian
-Mina
 mina
 minat
 mindi
 mineral
 mineralisasi
 mineralogi
-Minggu
 mingguan
 miniatur
 minibasket
@@ -13008,7 +13101,6 @@ mugabat
 muhadarah
 muhajat
 muhajirin
-Muharam
 muhibah
 muhrim
 mujahid
@@ -13146,7 +13238,6 @@ musyrikin
 musytari
 mutagen
 mutah
-mutah
 mutakalim
 mutaki
 mutalaah
@@ -13256,7 +13347,6 @@ nasionalisme
 nasionisme
 naskah
 nasofaring
-Nasrani
 nasti
 natal
 natalitas
@@ -13283,7 +13373,6 @@ nawalapradata
 nayam
 nazam
 nazar
-Nazi
 naziisme
 nazir
 ndoroisme
@@ -13305,15 +13394,12 @@ negarawan
 negasi
 negatif
 negativisme
-Neger
 negeri
 negosi
 negosiasi
 negosiator
 negrito
-Negro
 negroid
-Negus
 nekara
 nekrofag
 nekrofili
@@ -13366,7 +13452,6 @@ neozoikum
 nepotis
 nepotisme
 neptunium
-Neptunus
 neraca
 neraka
 neritoplankton
@@ -13508,7 +13593,6 @@ novel
 novela
 novelet
 novelis
-November
 novena
 novokaina
 nuansa
@@ -13542,7 +13626,6 @@ nutriea
 nutrisi
 nutrisionis
 nutrisisme
-Nuzulul Quran
 nyala
 nyale
 nyali
@@ -13554,7 +13637,6 @@ nyatuh
 nyawa
 nyawang
 nyemplong
-Nyepi
 nyingnying
 nyiri
 nyiru
@@ -13597,7 +13679,6 @@ odontoblas
 odontoid
 odontologi
 odoran
-Oedipus-kompleks
 oersted
 ofensif
 oferte
@@ -13626,7 +13707,6 @@ oktagon
 oktahedron
 oktana
 oktet
-Oktober
 oktroi
 okulasi
 okulis
@@ -13653,7 +13733,6 @@ oligopoli
 oligopsoni
 oligosen
 oligositemia
-Olimpiade
 oliva
 olivin
 olok-olokan
@@ -13769,7 +13848,6 @@ orien
 orientalis
 orientasi
 origami
-Orion
 orkes
 orkestra
 orkestrasi
@@ -14009,8 +14087,6 @@ pancang
 pancangan
 pancaran
 pancaroba
-Pancasila
-Pancasilais
 pancasuda
 pancausaha
 pancawara
@@ -14086,7 +14162,6 @@ pantauan
 panteis
 panteisme
 pantek
-Pantekosta
 panteon
 panter
 panti
@@ -14246,7 +14321,6 @@ pasilan
 pasimologi
 pasir
 pasiva
-Paskah
 pasmen
 pasok
 pasokan
@@ -14591,7 +14665,6 @@ peliberalan
 pelicin
 peliharaan
 pelihat
-pelikan
 pelikan
 pelikel
 pelimbahan
@@ -16049,8 +16122,6 @@ pengental
 pengentalan
 pengentasan
 pengepak
-pengepak
-pengepakan
 pengepakan
 pengepingan
 pengeposan
@@ -16556,7 +16627,6 @@ penguretan
 pengurukan
 pengurungan
 pengurus
-pengurusan
 pengurusan
 pengurutan
 pengusaha
@@ -17225,7 +17295,6 @@ peradang
 peradangan
 peradilan
 peraduan
-peraduan
 peraga
 peragaan
 peragawan
@@ -17294,7 +17363,6 @@ perangkaian
 perangkakan
 perangkap
 perangkapan
-perangkat
 perangkat
 perangkatan
 perangsang
@@ -18039,7 +18107,6 @@ pesantren
 pesantrian
 pesawah
 pesawangan
-pesawangan
 pesawat
 pese
 peselam
@@ -18311,7 +18378,6 @@ pisang
 pisang, pisang-pisang
 pisang-pisang
 pisau
-Pises
 pisiformis
 pisin
 pisitan
@@ -18406,7 +18472,6 @@ plumbum
 pluralis
 pluralisme
 pluriform
-Pluto
 plutokrasi
 plutonium
 pluviograf
@@ -18806,8 +18871,6 @@ proteolisis
 protes
 protese
 protesis
-Protestan
-Protestantisme
 protista
 protofon
 protogenesis
@@ -19036,15 +19099,11 @@ qasar
 qiamulail
 qiraah
 qiraat
-Quran
 rabaan
 raban
 rabat
 rabies
-Rabiulakhir
-Rabiulawal
 rabotase
-Rabu
 rabuk
 rabun
 rabung
@@ -19110,7 +19169,6 @@ rahmatullah
 raimuna
 rais
 raja
-Rajab
 rajah
 rajam
 rajaman
@@ -19143,7 +19201,6 @@ ralat
 ram
 rama
 rama-rama
-Ramadan
 ramalan
 ramanda
 ramania
@@ -19255,7 +19312,6 @@ rasisme
 raster
 rasuk
 rasul
-Rasulullah
 rasyid
 ratapan
 ratib
@@ -19306,7 +19362,6 @@ realitas
 realokasi
 realpolitik
 reasuransi
-Reaumur
 rebab
 rebahan
 reban
@@ -19722,7 +19777,6 @@ rodolit
 roga
 rohani
 rohaniwan
-Rohulkudus
 rojengan
 rokade
 roker
@@ -19857,7 +19911,6 @@ rute
 rutenium
 ruterfordium
 rutin
-Ruwah
 ruwatan
 ruyap
 saanen
@@ -19870,7 +19923,6 @@ sabatikal
 sabda
 sabel
 sabetan
-Sabi
 sabi
 sabit
 sabitan
@@ -19879,7 +19931,6 @@ sabo
 sabotan
 sabotase
 sabsab
-Sabtu
 sabu-sabu
 sabuk
 sabuk, sabuk jingga
@@ -19896,7 +19947,6 @@ sadisme
 sado
 sadur
 saduran
-Safar
 safar
 safari
 safinah
@@ -19906,7 +19956,6 @@ saga
 sagai
 sagang
 sagar
-Sagitarius
 sagon
 sagu
 saguer
@@ -19921,7 +19970,6 @@ sahibulbait
 sahibulhajat
 sahut
 sahutan
-Sailan
 sailo
 saingan
 sains
@@ -19932,9 +19980,7 @@ sajak
 sajang
 saji-sajian
 sajian
-Saka
 saka
-Sakai
 sakal
 sakang
 sakapan
@@ -20102,7 +20148,6 @@ sanjang
 sanjungan
 sanksi
 sanseviera
-Sanskerta
 santa
 santam
 santan
@@ -20165,7 +20210,6 @@ sarkoma
 sarkoplasma
 saron
 sarsaparila
-Sartan
 sarung
 sasak
 sasakan
@@ -20190,7 +20234,6 @@ satori
 satpam
 satu
 satuan
-Saturnus
 saturometer
 satwa
 satyagraha
@@ -20526,11 +20569,9 @@ selaras
 selarasan
 selarik
 selarung
-Selasa
 selasar
 selasih
 selat
-Selatan
 selaur
 selawah
 selawatan
@@ -20637,7 +20678,6 @@ semambu
 semampat
 semandan
 semandera
-Semang
 semang
 semang-semang
 semangat
@@ -20792,7 +20832,6 @@ seni
 senigai
 senilitas
 seniman
-Senin
 senioritas
 seniwati
 senja
@@ -20898,7 +20937,6 @@ seperah
 seperanggu
 seperangguan
 seperangkat
-seperangkat
 seperangkatan
 seperantu
 seperatus
@@ -20931,7 +20969,6 @@ seples
 sepocong
 seprai
 sepsis
-September
 septima
 septum
 sepuh
@@ -20967,7 +21004,6 @@ serangan
 serangga
 serangkai
 serangkak
-Serani
 seranjang
 seranograf
 seranometer
@@ -21365,7 +21401,6 @@ simulator
 simulfiks
 sinagoge
 sinanaga
-Sinansari
 sinar
 sinaran
 sinden
@@ -21427,7 +21462,6 @@ sinse
 sintagma
 sintaksis
 sinter
-Sinterklas
 sintesis
 sintonik
 sintua
@@ -21439,7 +21473,6 @@ sinusitis
 sinyal
 sinyalemen
 sinyo
-Sinyokolas
 siong
 sipat
 sipatan
@@ -21556,7 +21589,6 @@ skolastisisme
 skombroid
 skopometer
 skorbut
-Skorpio
 skripsi
 skrobikulus
 skrotum
@@ -21752,7 +21784,6 @@ sputum
 srigading
 srigunggu
 srigunting
-Srikandi
 srikaya
 sripah
 sripanggung
@@ -21772,7 +21803,6 @@ stalon
 stamba
 stambon
 stambuk
-Stambul
 stambul
 stamen
 stamina
@@ -21937,7 +21967,6 @@ subuh
 subunit
 subversi
 sudip
-Sudra
 sudu
 sudu-sudu
 suduayah
@@ -22078,7 +22107,6 @@ suprarenoma
 suprasasti
 supremasi
 supresor
-Sura
 surai
 surat
 surat kabar
@@ -22155,14 +22183,11 @@ swausaha
 sweter
 swimpak
 syafaat
-Syafii
 syahadat
 syahadatain
 syahbandar
 syahwat
 syair
-Syaka
-Syakban
 syakir
 syamali
 syaman
@@ -22176,13 +22201,10 @@ syariat
 syarif
 syarifah
 syarik
-Syawal
 syeir
 syeti
 syikak
 syirik
-Syiwa
-Syiwaratri
 syogun
 syubhat
 syuhada
@@ -22500,7 +22522,6 @@ tarantula
 taraqi
 tarasul
 tarawangsa
-Tarawih
 tarbil
 tarbus
 tarcis
@@ -22575,8 +22596,6 @@ taucang
 taufik
 tauke
 tauran
-Taurat
-Taurus
 taut
 tautan
 tautofoni
@@ -23083,7 +23102,6 @@ tetraklorida
 tetraploid
 tetris
 tetua
-tetua
 tetuang
 tetumbuhan
 tian
@@ -23098,7 +23116,6 @@ tifus
 tiga
 tiga-tiganya
 tigari
-Tijaniah
 tik
 tika
 tikai
@@ -23475,7 +23492,6 @@ tuap
 tuar
 tuas
 tuba
-Tubagus
 tuban
 tube
 tubektomi
@@ -23514,7 +23530,6 @@ tuku
 tukuk
 tukul
 tukun
-Tula
 tulah
 tulak
 tulang
@@ -23762,12 +23777,10 @@ urang
 uranisme
 uranium
 uranologi
-Uranus
 urap
 urat
 urbanisasi
 urbanisme
-Urdu
 uremia
 ureter
 uretra
@@ -23851,7 +23864,6 @@ vaskularisasi
 vaskulum
 vasodilasi
 vasodilator
-Vatikan
 vaucer
 vegetarian
 vegetarir
@@ -23871,7 +23883,6 @@ ventilasi
 ventilator
 ventrikel
 ventrikulus
-Venus
 verba
 verbalisan
 verbalisasi
@@ -23926,7 +23937,6 @@ violinis
 violis
 virga
 virginia
-Virgo
 virilisme
 virilitas
 virilokal
@@ -23995,7 +24005,6 @@ wadam
 wadat
 wadi
 waduk
-Wage
 wagon
 wahah
 waham
@@ -24003,7 +24012,6 @@ wahana
 wahid
 wahyu
 wai
-Waisak
 waisya
 waitankung
 wajah
@@ -24074,11 +24082,9 @@ wawancara
 wawanmuka
 wawanrembuk
 wawasan
-Wawu
 wayang
 wayangan
 wazari
-Weda
 wedana
 wedani
 wedaran
@@ -24106,7 +24112,6 @@ wewe
 wewenang
 wibawa
 wicara
-Widiwasa
 widoro
 widyaiswara
 widyawisata
@@ -24139,7 +24144,6 @@ wisesa
 wisik
 wiski
 wisma
-Wisnu
 wisuda
 wisudawan
 wisudawati
@@ -24149,7 +24153,6 @@ wombat
 wora-wari
 wortel
 wredatama
-Wrisaba
 wudani
 wujud
 wuker
@@ -24185,13 +24188,9 @@ xilologi
 xilonit
 xilosa
 ya
-Yahudi
-Yahudiah
-Yahwe
 yais
 yakis
 yakitori
-Yakjuj wa Makjuj
 yaksa
 yakut
 yantra
@@ -24211,11 +24210,9 @@ yoyo
 yu
 yubileum
 yudisium
-Yunani
 yunda
 yunta
 yupa prasasti
-Yupiter
 yura
 yuris
 yurisdiksi
@@ -24224,8 +24221,6 @@ yustisi
 yute
 yuwaraja
 yuyitsu
-Zabaniah
-Zabur
 zair
 zaitun
 zakat
@@ -24235,7 +24230,6 @@ zaman
 zamindar
 zamrud
 zamzam
-Zanggi
 zantara
 zarafah
 zarah
@@ -24246,7 +24240,6 @@ zawal
 zebra
 zebu
 zelot
-Zend-Avesta
 zending
 zeni
 zenit
@@ -24265,8 +24258,6 @@ zimosis
 zimurgi
 zina
 zinkografi
-Zion
-Zionis
 zionisme
 zirah
 zirkonia
@@ -24286,7 +24277,4 @@ zoonosis
 zoosemiotika
 zuhur
 zulfikar
-Zulhijah
-Zulkaidah
-Zulu
 zulu
