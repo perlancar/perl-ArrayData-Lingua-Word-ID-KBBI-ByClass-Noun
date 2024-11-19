@@ -21,6 +21,8 @@ with 'ArrayDataRole::Source::LinesInDATA';
 
 =head1 SEE ALSO
 
+L<WordList::ID::KBBI::ByClass::Noun> contains the same data.
+
 =cut
 
 __DATA__
